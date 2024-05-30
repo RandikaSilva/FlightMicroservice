@@ -45,9 +45,9 @@ If we pass the destination param as empty, it will return all the data.
 ## Dockerization (Optional)
 You can also run the microservice in a Docker container. Make sure you have Docker installed on your machine.
 1. Build the Docker image:
-`docker build -t flightmicroservice 
+`docker build -t FlightMicroservice 
 `
 2. Run the Docker container:
-`docker run -d -p 8080:80 --name flight-microservice-container flight-microservice
+`docker run -d -p 8080:80 --FlightMicroservice:v1
 `
 The microservice will now be accessible at http://localhost:8080.
