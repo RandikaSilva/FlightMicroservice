@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{100C928F-2530-480D-B6BB-DF2C88BFA3FE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FlightMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../FlightMicroservice.Tests/FlightServiceTests.cs">
+    <Files>
+      <File FileName="Controllers/FlightsController.cs" Line="16" Column="1" />
+      <File FileName="Services/FlightService.cs" Line="28" Column="10" />
+      <File FileName="Program.cs" Line="12" Column="1" />
+      <File FileName="Modals/Flight.cs" Line="11" Column="6" />
+      <File FileName="Modals/Flights.cs" Line="10" Column="22" />
+      <File FileName="../FlightMicroservice.Tests/FlightServiceTests.cs" Line="11" Column="1" />
+      <File FileName="../FlightMicroservice.Tests/FlightMicroservice.Tests.csproj" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlightMicroservice" expanded="True">
+            <Node name="FlightMicroservice.Tests" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FlightMicroservice" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

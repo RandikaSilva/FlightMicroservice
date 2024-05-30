@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  flightmicroservice:
+    image: ${DOCKER_REGISTRY-}flightmicroservice
+    build:
+      context: .
+      dockerfile: ./Dockerfile

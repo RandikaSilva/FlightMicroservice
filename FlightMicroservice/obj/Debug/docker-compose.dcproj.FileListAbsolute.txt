@@ -1,0 +1,14 @@
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/FlightMicroservice.deps.json
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/FlightMicroservice.runtimeconfig.json
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/appsettings.Development.json
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/appsettings.json
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/FlightMicroservice
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/FlightMicroservice.dll
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lasitha/Projects/FlightMicroservice/bin/Debug/FlightMicroservice.pdb
+/Users/lasitha/Projects/FlightMicroservice/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/lasitha/Projects/FlightMicroservice/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/lasitha/Projects/FlightMicroservice/obj/Debug/docker-compose.dcproj.CopyComplete
+/Users/lasitha/Documents/FlightMicroservice/FlightMicroservice/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
